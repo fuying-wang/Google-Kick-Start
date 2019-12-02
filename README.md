@@ -1,3 +1,5 @@
+![kick start](kick%20start.jpg)
+
 # [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart)
 
 Previously known as [Google Code Jam Kickstart](https://code.google.com/codejam/kickstart/)
@@ -19,6 +21,14 @@ as it [uses Python 3.5](https://code.google.com/codejam/resources/faq#language-d
 ### [Round B](2019/Round%20B)
 
 - [Building Palindromes](2019/Round%20B/Building%20Palindromes)
+
+### [Round G](2019/Round%20G)
+
+- [Book Reading](2019/Round%20G/Book%20Reading)
+
+### [Round H](2019/Round%20H)
+
+- [H-index](2019/Round%20H/H-index)
 
 ## [2018](2018)
 
@@ -96,6 +106,10 @@ as it [uses Python 3.5](https://code.google.com/codejam/resources/faq#language-d
 - [Problem B. Super 2048](2014/Round%20A/Problem%20B)
 - [Problem C. Addition](2014/Round%20A/Problem%20C)
 - [Problem D. Cut Tiles](2014/Round%20A/Problem%20D)
+
+### [Round B](2014/Round%20B)
+
+- [Problem A. Password Attacker](2014/Round%20B/Problem%20A)
 
 ### [Round D](2014/Round%20D)
 
